@@ -1,0 +1,12 @@
+{
+  "name": "poutoulou-marketplace",
+  "owner": { "name": "Poutoulou Bio" },
+  "plugins": [
+    {
+      "name": "poutoulou-cm",
+      "description": "Community manager Instagram et Facebook pour Poutoulou Bio",
+      "version": "1.0.0",
+      "source": "./plugins/poutoulou-cm"
+    }
+  ]
+}
